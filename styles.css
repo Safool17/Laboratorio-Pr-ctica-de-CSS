@@ -1,0 +1,88 @@
+.Box1 {
+  background-color: rgb(49, 49, 133);
+  float: left;
+  margin-right: 15px;
+}
+
+.BoxImg {
+  float: none;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.BoxTitul {
+  color: white;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+.BoxTex {
+  color: white;
+  font-size: larger;
+}
+
+.IMG-TEX {
+  align-items: center;
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
+.IMG-TEX img {
+  float: left;
+  margin-right: 10px;
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.Box2 {
+  display: flex;
+  margin-left: 35px;
+  margin-right: 35px;
+  background-color: white;
+  flex-direction: column;
+}
+
+.BoxTitul2 {
+  color: rgb(49, 49, 133);
+  text-align: center;
+  font-size: x-large;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.Parr {
+  color: rgb(49, 49, 133);
+  text-align: justify;
+  font-size: x-large;
+  line-height: 45px;
+}
+
+.IMG-TEX2 {
+  color: rgb(49, 49, 133);
+  align-items: center;
+  margin-left: 30px;
+  margin-top: 15px;
+  font-size: x-large;
+}
+
+.IMG-TEX2 img {
+  color: rgb(49, 49, 133);
+  float: left;
+  margin-right: 10px;
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.BoxTitul3 {
+  background-color: rgb(49, 49, 133);
+  display: flex;
+  font-size: x-large;
+  color: white;
+  justify-content: center;
+}
